@@ -1,0 +1,6 @@
+{
+  "name": "Jimini AI 추리 탐정: 사건 인터랙티브 추리 게임",
+  "description": "Jimini AI UI 및 SNS 디지털 수사를 통해 사건 현장 조사, 용의자 심문, 증거 수집으로 진범을 밝혀내는 AI 추리 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
